@@ -1,0 +1,19 @@
+.dark-mode {
+  background-color: #000000; /* Set your desired dark mode background color */
+  color: #fff; /* Set your desired text color for dark mode */
+}
+.navbar {
+  background-color: #f8f9fa; /* Set your desired background color for light mode */
+  color: #000; /* Set your desired text color for light mode */
+}
+.dark-mode #btbar,
+.dark-mode .form-check-input:checked {
+  color: #fff;
+  color: #000; /* Set your desired text color for dark mode */
+}
+.dark-mode .form-check-label {
+  color: #fff; /* Set your desired text color for dark mode */
+}
+.navbar-brand {
+  float: none;
+}
